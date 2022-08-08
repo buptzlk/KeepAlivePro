@@ -10,11 +10,6 @@
 https://qulian-apk.oss-cn-beijing.aliyuncs.com/apk/KeepAlivePro.apk
 
 ```
-## 效果图
-
-![oppo12](https://qulian-apk.oss-cn-beijing.aliyuncs.com/apk/oppo.gif!/fw/300)
-![小米10](https://qulian-apk.oss-cn-beijing.aliyuncs.com/apk/xiaomi.gif)
-
 
 ## 微信（添加时请备注保活）
 
